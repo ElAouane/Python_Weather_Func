@@ -1,3 +1,4 @@
+#__MAGIC WEATHER__
 # Make a weather/clothing game ## project
 # IF statements
 # Ask for user input and depending on the response advise on their attire.
@@ -12,3 +13,8 @@
 # rainy and stormy >> 'stay home'
 # anything else respond with 'sorry, i didn't quite catch that'
 # Make it so you keep playing until we say: 'No more Magic'
+
+# OUTCOME: In this project i learned how to control the work flow of the if statments
+# nested in a while loop, based on the user input.
+# Learning the control flow, helped to understand how to prioritize my if statment 
+# and know exactly how and when my code will fire.
